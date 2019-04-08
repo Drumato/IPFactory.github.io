@@ -1,3 +1,7 @@
+---
+title: IPFactory
+---
+
 # About
 
 IPFactoryは、コンピュータに関連するあらゆる欲求を満たし、自己満足に浸るサークルです。
