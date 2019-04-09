@@ -28,7 +28,7 @@ IPFactoryは、コンピュータに関連するあらゆる欲求を満たし�
 [Taisei Miyagawa(miyagaw61)](https://miyagaw61.github.io)  
 ソフトウェア開発(C,Python,Rust)/CTF(Rev,Pwn)/競技プログラミング
 
-# Contacts
+# Links/Contacts
 
 - [Mail](mailto:ipfactory@gn.iwasaki.ac.jp)
 - [Twitter](https://twitter.com/_ipfactory_)
