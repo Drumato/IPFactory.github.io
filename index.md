@@ -32,3 +32,4 @@ IPFactoryは、コンピュータに関連するあらゆる欲求を満たし�
 
 - [Mail](mailto:ipfactory@gn.iwasaki.ac.jp)
 - [Twitter](https://twitter.com/_ipfactory_)
+- [Qiita](https://qiita.com/organizations/ipfactory)
